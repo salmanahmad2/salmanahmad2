@@ -18,7 +18,7 @@
 - A passionate software engineer from Pakistan🇵🇰
 - 🧑‍🎓 Software Engineer
 - 🌱 Always learning new things
-- 📄 Know about my experiences <a href="https://github.com/salmanahmad2/salmanahmad2/raw/main/assets/Resume-Salman-Ahmad.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/salmanahmad2/salmanahmad2.github.io/blob/main/Resume-Salman-Ahmad.pdf" target="blank">Resume</a>
 <!-- - 🔭 I’m currently working in <a href="https://www.primetrader.com/" target="blank">PrimeTrader</a> -->
 <br><br>
 
